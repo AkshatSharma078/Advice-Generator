@@ -1,0 +1,35 @@
+
+#middle-box{
+    position: relative;
+    top: 100px;
+    left: 40%;
+    height: 230px;
+    width: 290px;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 8px;
+    background-color: hsl(193, 38%, 86%)
+}
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    position: relative;
+    top: 120px;
+  }
+  h1{
+    color:hsl(150, 55%, 36%); ;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  #get-new{
+    position: relative;
+    top: 95px;
+    left: 47%;
+    background-color: hsl(150, 100%, 66%);
+    border-radius: 10px;
+  }
+  #new-advice{
+    margin-top: 20%;
+  }
